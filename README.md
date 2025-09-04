@@ -54,8 +54,8 @@ Make sure to download it from Kaggle and place it in the appropriate directory b
 ## 📥 Installation & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Vedag812/Image_Classification
+cd xray_classification
 
 # Install dependencies
 pip install -r requirements.txt
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 python train.py
 
 # Run evaluation
-python evaluate.py
+python run.py
 ```
 
 ## 📜 License
